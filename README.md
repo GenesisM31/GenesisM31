@@ -1,6 +1,6 @@
 ## Maylen 
 Ingenieria en Sistemas
-la vida es mas divertida con animales 
+,la vida es mas divertida con animales 
 
 <!--
 **GenesisM31/GenesisM31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
